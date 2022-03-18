@@ -1,0 +1,43 @@
+/*colores: {
+    azul: #062C30;
+    amarillo: #E2D784;
+    verde: #05595B;
+    gris: #F5F5F5;
+}*/
+
+.profile-image { 
+    border-radius: 100%;
+    margin-top: 10px;
+}
+
+.image-size {
+    max-width: 64px;
+    max-height: 64px;
+}
+
+nav {
+    background-color: #F5F5F5;
+    margin: 0;
+}
+
+header {
+    margin: 0;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+}
+
+body {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+hr {
+    margin-top: 0;
+}
+
+a {
+    text-decoration: none;
+}
